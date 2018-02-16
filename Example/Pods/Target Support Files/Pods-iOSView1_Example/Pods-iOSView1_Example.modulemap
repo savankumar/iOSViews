@@ -1,0 +1,6 @@
+framework module Pods_iOSView1_Example {
+  umbrella header "Pods-iOSView1_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
